@@ -32,6 +32,7 @@ namespace AlgoHW1
                 }
 
                 PrimeSieve();
+                Console.ReadKey(true);
             } catch (Exception e)
             {
                 Console.WriteLine("Ошибка: " + e.Message);
