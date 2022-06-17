@@ -8,7 +8,7 @@ namespace AlgoHW1
 {
     class BigO
     {
-        // Cложность данного алгоритма составляет O(n^3)
+        // Cложность данного алгоритма составляет O(n^3) - три вложенных цикла
         public static int StrangeSum(int[] inputArray)
         {
             int sum = 0;
