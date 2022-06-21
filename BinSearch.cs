@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlgoHW2
-{
-    static class BinSearch
-    {
+namespace AlgoHW2 {
+    static class BinSearch {
         // Задание 2 (двоичный поиск)
         // Сложность O(log n) - алгоритм проходит дополнительную итерацию каждый раз, когда изменяется количество данных
         /// <summary>Осуществляет двоичный поиск в массиве целочисленного типа</summary>
